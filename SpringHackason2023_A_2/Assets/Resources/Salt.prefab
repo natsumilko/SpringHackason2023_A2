@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 2361659583844385533}
   - component: {fileID: 8851737702816683559}
   - component: {fileID: 6873023138384340442}
+  - component: {fileID: 2048493159832407763}
   - component: {fileID: 8026773249731466075}
   m_Layer: 0
   m_Name: Salt
@@ -82,6 +83,18 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &2048493159832407763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4041899951736613884}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: feb9f6ebb4cd07145b26760de99a789f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!135 &8026773249731466075
 SphereCollider:
   m_ObjectHideFlags: 0
